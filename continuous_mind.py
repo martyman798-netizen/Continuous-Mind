@@ -52,9 +52,14 @@ FEED_CHUNK_SIZE = 200
 CHAT_CONTEXT_SIZE = 10
 PORT = 8484
 
-# CPU only — keeps MacBook Air cool
-DEVICE = torch.device("cpu")
-print("  Using CPU — cool mode")
+if torch.cuda.is_available():
+    DEVICE = torch.device("cuda")
+    gpu_name = torch.cuda.get_device_name(0)
+    vram = torch.cuda.get_device_properties(0).total_memory // (1024 ** 2)
+    print(f"  Using GPU: {gpu_name} ({vram} MB VRAM)")
+else:
+    DEVICE = torch.device("cpu")
+    print("  Using CPU — no CUDA GPU detected")
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # THE MIND
