@@ -758,15 +758,19 @@ def main():
 ╚══════════════════════════════════════════════════════════════╝
 """)
 
-    # Start HTTP server (blocking)
     class QuietHTTPServer(ThreadingMixIn, HTTPServer):
         daemon_threads = True
         def handle_error(self, request, client_address):
             pass  # Suppress all connection error tracebacks
 
     server = QuietHTTPServer(('', PORT), MindHandler)
+    server_thread = threading.Thread(target=server.serve_forever, daemon=True)
+    server_thread.start()
+
+    # Keep main thread alive and interruptible (fixes Ctrl+C on Windows)
     try:
-        server.serve_forever()
+        while True:
+            time.sleep(0.5)
     except KeyboardInterrupt:
         signal_handler(None, None)
 
