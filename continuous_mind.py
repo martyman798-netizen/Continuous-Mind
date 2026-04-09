@@ -664,7 +664,7 @@ def thinking_loop():
 
         with mind_lock:
             thought = mind.generate(seed=seed)
-            loss = mind.learn_from_text(thought, optimizer)
+            loss = mind.learn_from_text(thought, optimizer, epochs=3)
             mind.thought_count += 1
             mind.total_loss += loss
             mood = mind.get_mood_description()
