@@ -213,7 +213,7 @@ def scan_feed_folder(mind, optimizer):
                 chunk = content[i:i + FEED_CHUNK_SIZE]
                 if len(chunk) < 10:
                     continue
-                total_loss += mind.learn_from_text(chunk, optimizer, epochs=2)
+                total_loss += mind.learn_from_text(chunk, optimizer, epochs=5)
                 chunk_count += 1
             mind.files_learned.add(file_key)
             learned.append({"file": filepath.name, "loss": total_loss / max(1, chunk_count), "size": len(content)})
