@@ -35,20 +35,20 @@ import queue
 # CONFIGURATION
 # ═══════════════════════════════════════════════════════════════════════════════
 
-HIDDEN_DIM = 256
-EMBEDDING_DIM = 128
-NUM_HEADS = 4
-NUM_LAYERS = 4
+HIDDEN_DIM = 1024        # 4x larger — GPU can handle it
+EMBEDDING_DIM = 512      # 4x larger
+NUM_HEADS = 8            # 2x more attention heads
+NUM_LAYERS = 8           # 2x deeper
 VOCAB_SIZE = 256
-THINK_INTERVAL = 3.0
-LEARN_RATE = 0.0005
-SEQUENCE_LEN = 48
+THINK_INTERVAL = 1.5     # Think faster — GPU is quick
+LEARN_RATE = 0.0003      # Slightly lower for bigger model stability
+SEQUENCE_LEN = 128       # ~3x longer context window
 STATE_FILE = Path("mind_state.pt")
 LOG_FILE = Path("thought_log.txt")
 FEED_DIR = Path("feed")
 CREATIVITY = 0.8
 FEED_SCAN_INTERVAL = 30
-FEED_CHUNK_SIZE = 200
+FEED_CHUNK_SIZE = 400    # Larger learning chunks per step
 CHAT_CONTEXT_SIZE = 10
 PORT = 8484
 
