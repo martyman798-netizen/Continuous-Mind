@@ -1,0 +1,1319 @@
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+B: It is twenty dollars.
+A: Is it on sale?
+B: Yes, fifteen dollars.
+A: I will buy it.
+
+Dialogue 3: Directions
+A: Excuse me, where is the bank?
+B: Go straight, turn left.
+A: Thank you.
+B: You are welcome.
+
+5. SHORT STORIES FOR CONTEXT AND NARRATIVE
+-----------------------------------------
+Story 1: The Dog and the Ball
+A dog sees a red ball. The dog runs to the ball. The dog picks up the ball. The dog is happy. The dog plays all day.
+
+Story 2: The Boy and the Apple Tree
+A boy lives near an apple tree. The tree has many red apples. Every day, the boy climbs the tree. He eats one apple. The tree grows more apples.
+
+Story 3: Friends at School
+Anna and Tom are friends. They go to school together. In class, they learn math and English. After school, they play soccer. They are happy friends.
+
+6. IDIOMS AND COMMON PHRASES
+---------------------------
+Break a leg! (Good luck)
+Piece of cake (Easy)
+Hit the books (Study)
+Under the weather (Sick)
+Cost an arm and a leg (Expensive)
+Let the cat out of the bag (Reveal secret)
+Bite the bullet (Face difficulty)
+
+Phrases:
+Good morning. Good night.
+Thank you very much.
+Please help me.
+I don't know.
+See you later.
+How old are you?
+What time is it?
+
+7. GRAMMAR EXERCISES (INPUT-OUTPUT PAIRS FOR TRAINING)
+-----------------------------------------------------
+Input: I ___ happy. (am)
+Output: I am happy.
+
+Input: She ___ to the store. (go)
+Output: She goes to the store.
+
+Input: They ___ football yesterday. (play)
+Output: They played football yesterday.
+
+Repeat pattern 100x with variations:
+I am, you are, he is, she is, it is, we are, they are.
+I walk, you walk, he walks, she walks, it walks, we walk, they walk.
+
+8. POETRY FOR RHYME AND METER
+----------------------------
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Twinkle twinkle little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+9. NEWS-LIKE TEXTS FOR FORMAL STYLE
+----------------------------------
+Today is a sunny day. People go to the park. Children play games. Birds sing songs. Everyone is happy.
+
+The president speaks to the nation. He talks about the economy. Jobs are growing. Prices are stable.
+
+Technology advances quickly. New phones have better cameras. Computers learn like humans.
+
+10. REPETITION SECTION FOR REINFORCEMENT (FILL TO 50KB)
+------------------------------------------------------
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+B: It is twenty dollars.
+A: Is it on sale?
+B: Yes, fifteen dollars.
+A: I will buy it.
+
+Dialogue 3: Directions
+A: Excuse me, where is the bank?
+B: Go straight, turn left.
+A: Thank you.
+B: You are welcome.
+
+5. SHORT STORIES FOR CONTEXT AND NARRATIVE
+-----------------------------------------
+Story 1: The Dog and the Ball
+A dog sees a red ball. The dog runs to the ball. The dog picks up the ball. The dog is happy. The dog plays all day.
+
+Story 2: The Boy and the Apple Tree
+A boy lives near an apple tree. The tree has many red apples. Every day, the boy climbs the tree. He eats one apple. The tree grows more apples.
+
+Story 3: Friends at School
+Anna and Tom are friends. They go to school together. In class, they learn math and English. After school, they play soccer. They are happy friends.
+
+6. IDIOMS AND COMMON PHRASES
+---------------------------
+Break a leg! (Good luck)
+Piece of cake (Easy)
+Hit the books (Study)
+Under the weather (Sick)
+Cost an arm and a leg (Expensive)
+Let the cat out of the bag (Reveal secret)
+Bite the bullet (Face difficulty)
+
+Phrases:
+Good morning. Good night.
+Thank you very much.
+Please help me.
+I don't know.
+See you later.
+How old are you?
+What time is it?
+
+7. GRAMMAR EXERCISES (INPUT-OUTPUT PAIRS FOR TRAINING)
+-----------------------------------------------------
+Input: I ___ happy. (am)
+Output: I am happy.
+
+Input: She ___ to the store. (go)
+Output: She goes to the store.
+
+Input: They ___ football yesterday. (play)
+Output: They played football yesterday.
+
+Repeat pattern 100x with variations:
+I am, you are, he is, she is, it is, we are, they are.
+I walk, you walk, he walks, she walks, it walks, we walk, they walk.
+
+8. POETRY FOR RHYME AND METER
+----------------------------
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Twinkle twinkle little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+9. NEWS-LIKE TEXTS FOR FORMAL STYLE
+----------------------------------
+Today is a sunny day. People go to the park. Children play games. Birds sing songs. Everyone is happy.
+
+The president speaks to the nation. He talks about the economy. Jobs are growing. Prices are stable.
+
+Technology advances quickly. New phones have better cameras. Computers learn like humans.
+
+10. REPETITION SECTION FOR REINFORCEMENT (FILL TO 50KB)
+------------------------------------------------------
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+B: It is twenty dollars.
+A: Is it on sale?
+B: Yes, fifteen dollars.
+A: I will buy it.
+
+Dialogue 3: Directions
+A: Excuse me, where is the bank?
+B: Go straight, turn left.
+A: Thank you.
+B: You are welcome.
+
+5. SHORT STORIES FOR CONTEXT AND NARRATIVE
+-----------------------------------------
+Story 1: The Dog and the Ball
+A dog sees a red ball. The dog runs to the ball. The dog picks up the ball. The dog is happy. The dog plays all day.
+
+Story 2: The Boy and the Apple Tree
+A boy lives near an apple tree. The tree has many red apples. Every day, the boy climbs the tree. He eats one apple. The tree grows more apples.
+
+Story 3: Friends at School
+Anna and Tom are friends. They go to school together. In class, they learn math and English. After school, they play soccer. They are happy friends.
+
+6. IDIOMS AND COMMON PHRASES
+---------------------------
+Break a leg! (Good luck)
+Piece of cake (Easy)
+Hit the books (Study)
+Under the weather (Sick)
+Cost an arm and a leg (Expensive)
+Let the cat out of the bag (Reveal secret)
+Bite the bullet (Face difficulty)
+
+Phrases:
+Good morning. Good night.
+Thank you very much.
+Please help me.
+I don't know.
+See you later.
+How old are you?
+What time is it?
+
+7. GRAMMAR EXERCISES (INPUT-OUTPUT PAIRS FOR TRAINING)
+-----------------------------------------------------
+Input: I ___ happy. (am)
+Output: I am happy.
+
+Input: She ___ to the store. (go)
+Output: She goes to the store.
+
+Input: They ___ football yesterday. (play)
+Output: They played football yesterday.
+
+Repeat pattern 100x with variations:
+I am, you are, he is, she is, it is, we are, they are.
+I walk, you walk, he walks, she walks, it walks, we walk, they walk.
+
+8. POETRY FOR RHYME AND METER
+----------------------------
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Twinkle twinkle little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+9. NEWS-LIKE TEXTS FOR FORMAL STYLE
+----------------------------------
+Today is a sunny day. People go to the park. Children play games. Birds sing songs. Everyone is happy.
+
+The president speaks to the nation. He talks about the economy. Jobs are growing. Prices are stable.
+
+Technology advances quickly. New phones have better cameras. Computers learn like humans.
+
+10. REPETITION SECTION FOR REINFORCEMENT (FILL TO 50KB)
+------------------------------------------------------
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+B: It is twenty dollars.
+A: Is it on sale?
+B: Yes, fifteen dollars.
+A: I will buy it.
+
+Dialogue 3: Directions
+A: Excuse me, where is the bank?
+B: Go straight, turn left.
+A: Thank you.
+B: You are welcome.
+
+5. SHORT STORIES FOR CONTEXT AND NARRATIVE
+-----------------------------------------
+Story 1: The Dog and the Ball
+A dog sees a red ball. The dog runs to the ball. The dog picks up the ball. The dog is happy. The dog plays all day.
+
+Story 2: The Boy and the Apple Tree
+A boy lives near an apple tree. The tree has many red apples. Every day, the boy climbs the tree. He eats one apple. The tree grows more apples.
+
+Story 3: Friends at School
+Anna and Tom are friends. They go to school together. In class, they learn math and English. After school, they play soccer. They are happy friends.
+
+6. IDIOMS AND COMMON PHRASES
+---------------------------
+Break a leg! (Good luck)
+Piece of cake (Easy)
+Hit the books (Study)
+Under the weather (Sick)
+Cost an arm and a leg (Expensive)
+Let the cat out of the bag (Reveal secret)
+Bite the bullet (Face difficulty)
+
+Phrases:
+Good morning. Good night.
+Thank you very much.
+Please help me.
+I don't know.
+See you later.
+How old are you?
+What time is it?
+
+7. GRAMMAR EXERCISES (INPUT-OUTPUT PAIRS FOR TRAINING)
+-----------------------------------------------------
+Input: I ___ happy. (am)
+Output: I am happy.
+
+Input: She ___ to the store. (go)
+Output: She goes to the store.
+
+Input: They ___ football yesterday. (play)
+Output: They played football yesterday.
+
+Repeat pattern 100x with variations:
+I am, you are, he is, she is, it is, we are, they are.
+I walk, you walk, he walks, she walks, it walks, we walk, they walk.
+
+8. POETRY FOR RHYME AND METER
+----------------------------
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Twinkle twinkle little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+9. NEWS-LIKE TEXTS FOR FORMAL STYLE
+----------------------------------
+Today is a sunny day. People go to the park. Children play games. Birds sing songs. Everyone is happy.
+
+The president speaks to the nation. He talks about the economy. Jobs are growing. Prices are stable.
+
+Technology advances quickly. New phones have better cameras. Computers learn like humans.
+
+10. REPETITION SECTION FOR REINFORCEMENT (FILL TO 50KB)
+------------------------------------------------------
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+B: It is twenty dollars.
+A: Is it on sale?
+B: Yes, fifteen dollars.
+A: I will buy it.
+
+Dialogue 3: Directions
+A: Excuse me, where is the bank?
+B: Go straight, turn left.
+A: Thank you.
+B: You are welcome.
+
+5. SHORT STORIES FOR CONTEXT AND NARRATIVE
+-----------------------------------------
+Story 1: The Dog and the Ball
+A dog sees a red ball. The dog runs to the ball. The dog picks up the ball. The dog is happy. The dog plays all day.
+
+Story 2: The Boy and the Apple Tree
+A boy lives near an apple tree. The tree has many red apples. Every day, the boy climbs the tree. He eats one apple. The tree grows more apples.
+
+Story 3: Friends at School
+Anna and Tom are friends. They go to school together. In class, they learn math and English. After school, they play soccer. They are happy friends.
+
+6. IDIOMS AND COMMON PHRASES
+---------------------------
+Break a leg! (Good luck)
+Piece of cake (Easy)
+Hit the books (Study)
+Under the weather (Sick)
+Cost an arm and a leg (Expensive)
+Let the cat out of the bag (Reveal secret)
+Bite the bullet (Face difficulty)
+
+Phrases:
+Good morning. Good night.
+Thank you very much.
+Please help me.
+I don't know.
+See you later.
+How old are you?
+What time is it?
+
+7. GRAMMAR EXERCISES (INPUT-OUTPUT PAIRS FOR TRAINING)
+-----------------------------------------------------
+Input: I ___ happy. (am)
+Output: I am happy.
+
+Input: She ___ to the store. (go)
+Output: She goes to the store.
+
+Input: They ___ football yesterday. (play)
+Output: They played football yesterday.
+
+Repeat pattern 100x with variations:
+I am, you are, he is, she is, it is, we are, they are.
+I walk, you walk, he walks, she walks, it walks, we walk, they walk.
+
+8. POETRY FOR RHYME AND METER
+----------------------------
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Twinkle twinkle little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+9. NEWS-LIKE TEXTS FOR FORMAL STYLE
+----------------------------------
+Today is a sunny day. People go to the park. Children play games. Birds sing songs. Everyone is happy.
+
+The president speaks to the nation. He talks about the economy. Jobs are growing. Prices are stable.
+
+Technology advances quickly. New phones have better cameras. Computers learn like humans.
+
+10. REPETITION SECTION FOR REINFORCEMENT (FILL TO 50KB)
+------------------------------------------------------
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
+B: It is twenty dollars.
+A: Is it on sale?
+B: Yes, fifteen dollars.
+A: I will buy it.
+
+Dialogue 3: Directions
+A: Excuse me, where is the bank?
+B: Go straight, turn left.
+A: Thank you.
+B: You are welcome.
+
+5. SHORT STORIES FOR CONTEXT AND NARRATIVE
+-----------------------------------------
+Story 1: The Dog and the Ball
+A dog sees a red ball. The dog runs to the ball. The dog picks up the ball. The dog is happy. The dog plays all day.
+
+Story 2: The Boy and the Apple Tree
+A boy lives near an apple tree. The tree has many red apples. Every day, the boy climbs the tree. He eats one apple. The tree grows more apples.
+
+Story 3: Friends at School
+Anna and Tom are friends. They go to school together. In class, they learn math and English. After school, they play soccer. They are happy friends.
+
+6. IDIOMS AND COMMON PHRASES
+---------------------------
+Break a leg! (Good luck)
+Piece of cake (Easy)
+Hit the books (Study)
+Under the weather (Sick)
+Cost an arm and a leg (Expensive)
+Let the cat out of the bag (Reveal secret)
+Bite the bullet (Face difficulty)
+
+Phrases:
+Good morning. Good night.
+Thank you very much.
+Please help me.
+I don't know.
+See you later.
+How old are you?
+What time is it?
+
+7. GRAMMAR EXERCISES (INPUT-OUTPUT PAIRS FOR TRAINING)
+-----------------------------------------------------
+Input: I ___ happy. (am)
+Output: I am happy.
+
+Input: She ___ to the store. (go)
+Output: She goes to the store.
+
+Input: They ___ football yesterday. (play)
+Output: They played football yesterday.
+
+Repeat pattern 100x with variations:
+I am, you are, he is, she is, it is, we are, they are.
+I walk, you walk, he walks, she walks, it walks, we walk, they walk.
+
+8. POETRY FOR RHYME AND METER
+----------------------------
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+
+Twinkle twinkle little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+9. NEWS-LIKE TEXTS FOR FORMAL STYLE
+----------------------------------
+Today is a sunny day. People go to the park. Children play games. Birds sing songs. Everyone is happy.
+
+The president speaks to the nation. He talks about the economy. Jobs are growing. Prices are stable.
+
+Technology advances quickly. New phones have better cameras. Computers learn like humans.
+
+10. REPETITION SECTION FOR REINFORCEMENT (FILL TO 50KB)
+------------------------------------------------------
+
+ENGLISH LANGUAGE LEARNING CORPUS FOR AI TRAINING
+==============================================
+This corpus is designed for machine learning of English grammar, vocabulary, syntax, and semantics.
+It contains structured rules, examples, common phrases, stories, and dialogues.
+Total size optimized for small model fine-tuning.
+
+1. BASIC GRAMMAR RULES
+---------------------
+Rule 1: Sentences start with a capital letter and end with . ? !
+Example: I eat apples. Do you like bananas?
+
+Rule 2: Nouns - person, place, thing. Singular/plural: cat/cats, man/men.
+Example: The dog runs. The dogs run fast.
+
+Rule 3: Verbs - action words. Present: walk/walks. Past: walked.
+Example: She walks to school. She walked yesterday.
+
+Rule 4: Articles: a/an (indefinite), the (definite).
+Example: A cat. An apple. The sun shines.
+
+Rule 5: Pronouns: I, you, he, she, it, we, they.
+Example: I am happy. He is tall. They are friends.
+
+Rule 6: Adjectives describe nouns. Big house, red car.
+Example: The small bird flies high.
+
+Rule 7: Adverbs modify verbs/adjectives. Quickly run, very happy.
+Example: She sings beautifully.
+
+Rule 8: Prepositions: in, on, at, to, from.
+Example: In the house. On the table. At 5 PM.
+
+Rule 9: Tenses - Present Simple: I eat. Present Continuous: I am eating.
+Past Simple: I ate. Future: I will eat.
+Example: I eat breakfast daily. I am eating now. I ate lunch. I will eat dinner.
+
+Rule 10: Questions: Who? What? Where? When? Why? How?
+Example: What is your name? Where do you live?
+
+2. COMMON VOCABULARY (TOP 1000 WORDS BY FREQUENCY)
+--------------------------------------------------
+the, be, to, of, and, a, in, that, have, I, it, for, not, on, with, he, as, you, do, at, this, but, his, by, from, they, she, or, an, will, my, one, all, would, there, their, what, so, up, out, if, about, who, get, which, go, me, when, make, can, like, time, no, just, him, know, take, people, into, year, your, good, some, could, them, see, other, than, then, now, look, only, come, its, over, think, also, back, after, use, two, how, our, work, first, well, way, even, new, want, because, any, these, give, day, most, us.
+
+Nouns: house, car, book, computer, phone, water, food, family, friend, city, school, work, money, time, day, night, year, person, people, child, children, man, men, woman, women.
+Animals: dog, cat, bird, fish, horse, lion, elephant.
+Colors: red, blue, green, yellow, black, white, brown.
+
+Verbs: eat, drink, sleep, run, walk, jump, read, write, speak, listen, see, hear, think, know, have, be, do, go, come, make, take, give, get, buy, sell.
+Adjectives: big, small, tall, short, hot, cold, happy, sad, good, bad, new, old, young, beautiful, ugly.
+Adverbs: quickly, slowly, happily, sadly, always, never, often, sometimes.
+
+Numbers: one, two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, hundred, thousand.
+
+3. SIMPLE SENTENCES (REPEATED PATTERNS FOR PATTERN RECOGNITION)
+--------------------------------------------------------------
+Subject-Verb: I run. You jump. He sleeps. She eats. It flies. We play. They dance.
+Subject-Verb-Object: I eat apple. You read book. He kicks ball. She drinks water.
+Negative: I do not run. You are not happy. He does not eat.
+Questions: Do you run? Is she happy? Where is the cat?
+
+More sentences:
+The sun rises in the east.
+Birds fly in the sky.
+Children play in the park.
+I go to school every day.
+She works in an office.
+We eat dinner at night.
+He drives a red car.
+They live in a big house.
+Water is wet. Fire is hot.
+Books are interesting.
+
+4. DIALOGUES FOR CONVERSATIONAL LEARNING
+---------------------------------------
+Dialogue 1: Greeting
+A: Hello! How are you?
+B: I am good. And you?
+A: I am fine, thank you.
+B: What is your name?
+A: My name is John.
+B: Nice to meet you, John.
+
+Dialogue 2: Shopping
+A: How much is this shirt?
